@@ -1,0 +1,18 @@
+# Never commit secrets or credentials
+*.json.key
+oauth2service.json
+oauth2.txt
+client_secrets.json
+credentials.json
+*.pem
+*.key
+.env
+.env.*
+secrets/
+.gam/
+
+# OS / editor
+.DS_Store
+*.swp
+.vscode/
+.idea/

@@ -66,5 +66,3 @@ flowchart TD
 `AI agent` · `MCP connectors (Slack, Google Workspace, Gmail, Calendar)` · `scheduled cloud agents (cron routines)` · `Google Workspace administration (GAM7)` · `service accounts & domain-wide delegation` · `human-in-the-loop agent design` · `secure secret handling` · `multi-tenant ops`
 
 ---
-
-*Built and documented with AI agent.*
